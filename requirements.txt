@@ -1,0 +1,22 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+pydantic==2.7.1
+python-multipart==0.0.9
+
+# File parsing
+python-pptx==0.6.23
+pandas==2.2.2
+openpyxl==3.1.2
+pdfplumber==0.10.3
+
+# Embeddings & RAG
+sentence-transformers==2.5.1
+faiss-cpu==1.7.4
+nltk==3.8.1
+
+# Optional: Streamlit UI
+streamlit==1.35.0
+requests==2.32.2
+
+# Optional: LLMs via Ollama
+ollama==0.1.6
